@@ -2,7 +2,7 @@
 layout: post
 title: "Gang Busted"
 date: 2022-12-27 01:34:53 -0000
-categories: writeup forensics
+categories: writeups
 ---
 
 # Gang Busted
