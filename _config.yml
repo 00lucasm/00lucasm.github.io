@@ -21,7 +21,7 @@
 title: 00lucasm blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Yet another Infosec blog written by a computer addict
+  Yet another InfoSec blog written by a computer addict
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://00lucasm.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
@@ -32,6 +32,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+minima:
+  skin: dark
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
