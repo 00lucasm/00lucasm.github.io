@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alquimia CTF 2023"
-date: 2023 -0000
+date: 2023-12-27 01:34:53 -0000
 categories: writeups
 ---
 
